@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">lab04</string>
+    <string name="product_name">Product</string>
+    <string name="product_amount">Amount</string>
+    <string name="product_price">Price</string>
+    <string name="apples">Apples</string>
+    <string name="strawberries">Strawberries</string>
+    <string name="blueberries">Blueberries</string>
+    <string name="potatoes">Potatoes</string>
+    <string name="calculate">Calculate</string>
+</resources>
